@@ -2,7 +2,7 @@ name: JD_Sign_Action
 
 on:
   schedule:
-    - cron: "50 1 * * *"
+    - cron: "10 2 * * *"
   watch:
     types: started
     
